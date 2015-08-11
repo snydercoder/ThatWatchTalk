@@ -9,9 +9,11 @@
 ####Matt Soucoup: 
 * Twitter: [@codemillmatt](https://www.twitter.com/codemillmatt)
 * GitHub: [codemillmatt](https://github.com/codemillmatt)
-* Web: http://codemilltech.com](http://codemilltech.com)
+* Web: [http://codemilltech.com](http://codemilltech.com)
 
-####Madison Mobile .NET Developer Group: [@MSNMobileDev](https://www.twitter.com/msnmobiledev), [Meetup Group](http://bit.ly/MSN-Mobile)
+####Madison Mobile .NET Developer Group: 
+* [@MSNMobileDev](https://www.twitter.com/msnmobiledev)
+* [Meetup Group](http://www.meetup.com/Madison-Mobile-NET-Developers-Group/)
 
 ####Code Demos:
 * [Hue Watch Sample](https://github.com/snydercoder/HueWatchSample)
