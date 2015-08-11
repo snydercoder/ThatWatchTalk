@@ -5,7 +5,7 @@ Code Demos:
 * [Hue Watch Sample](https://github.com/snydercoder/HueWatchSample)
 * [Hue Watch Sample](https://github.com/snydercoder/HueWatchSample)
 
-Matt Snyder: [@snydercoder](https://www.twitter.com/snydercoder)
+####Matt Snyder: [@snydercoder](https://www.twitter.com/snydercoder)
 
 Matt Soucoup: [@codemillmatt](https://www.twitter.com/codemillmatt)
 
