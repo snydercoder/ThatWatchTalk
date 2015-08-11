@@ -5,9 +5,9 @@ Information and resources from the [Apple Watch Development talk at That Confere
 
 ####Matt Soucoup: [@codemillmatt](https://www.twitter.com/codemillmatt), [http://codemilltech.com](http://codemilltech.com)
 
-#####Madison Mobile .NET Developer Group: [@MSNMobileDev](https://www.twitter.com/msnmobiledev), [Meetup Group (http://bit.ly/MSN-Mobile](http://bit.ly/MSN-Mobile)
+####Madison Mobile .NET Developer Group: [@MSNMobileDev](https://www.twitter.com/msnmobiledev), [Meetup Group](http://bit.ly/MSN-Mobile)
 
-#####Code Demos:
+####Code Demos:
 * [Hue Watch Sample](https://github.com/snydercoder/HueWatchSample)
 * [Hue Watch Sample](https://github.com/snydercoder/HueWatchSample)
 
@@ -16,5 +16,5 @@ Information and resources from the [Apple Watch Development talk at That Confere
 * [Getting Started with WatchKit](http://developer.xamarin.com/guides/ios/watch/)
 
 ####Apple:
-[Apple Watch Programming Guide](https://developer.apple.com/library/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/)
+* [Apple Watch Programming Guide](https://developer.apple.com/library/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/)
 
