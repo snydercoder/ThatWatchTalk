@@ -1,9 +1,13 @@
 # ThatWatchTalk
 Information and resources from the [Apple Watch Development talk at That Conference 2015](https://www.thatconference.com/Sessions/Session/7059).
 
-####Matt Snyder: [@snydercoder](https://www.twitter.com/snydercoder), [http://calvarylogic.com](http://calvarylogic.com)
+####Matt Snyder: 
+* [@snydercoder](https://www.twitter.com/snydercoder)
+* [http://calvarylogic.com](http://calvarylogic.com)
 
-####Matt Soucoup: [@codemillmatt](https://www.twitter.com/codemillmatt), [http://codemilltech.com](http://codemilltech.com)
+####Matt Soucoup: 
+* [@codemillmatt](https://www.twitter.com/codemillmatt)
+* [http://codemilltech.com](http://codemilltech.com)
 
 ####Madison Mobile .NET Developer Group: [@MSNMobileDev](https://www.twitter.com/msnmobiledev), [Meetup Group](http://bit.ly/MSN-Mobile)
 
@@ -17,4 +21,4 @@ Information and resources from the [Apple Watch Development talk at That Confere
 
 ####Apple:
 * [Apple Watch Programming Guide](https://developer.apple.com/library/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/)
-
+* [WWDC Videos](https://developer.apple.com/videos/wwdc/2015/)
