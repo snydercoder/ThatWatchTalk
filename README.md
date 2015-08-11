@@ -17,7 +17,7 @@
 
 ####Code Demos:
 * [Hue Watch Sample](https://github.com/snydercoder/HueWatchSample)
-* [Hue Watch Sample](https://github.com/snydercoder/HueWatchSample)
+* [TODO!!!!!!! UI Design Sample](https://github.com/codemillmatt)
 
 ####Xamarin:
 * [Xamarin Dev Days - Madison](https://ti.to/xamarin/dev-days-madison)
